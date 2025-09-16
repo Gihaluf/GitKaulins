@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Programma {
 
 	public static void main(String[] args) {
+		System.out.println(
+				"Esi sveicināts manā metamā kauliņa programmā!");
 		int reizes;
 		Scanner dati = new Scanner(System.in);
 		System.out.print("Cik reizes mest kauliņu: ");
